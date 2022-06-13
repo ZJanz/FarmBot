@@ -1,6 +1,4 @@
-
 //Made by Zace#0142
-
 startingX = Player.getPlayer().getX();
 startingZ = Player.getPlayer().getZ();
 currentX = Player.getPlayer().getX();
